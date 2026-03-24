@@ -127,8 +127,3 @@ Refer to the backend documentation or `app.py` for available API endpoints and r
 ## Contributing
 Feel free to submit issues and enhancement requests!
 
-## License
-[Add license information here]
-
-## Contact
-[Add contact information here]
